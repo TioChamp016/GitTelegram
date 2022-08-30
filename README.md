@@ -17,6 +17,7 @@ git add // para adicionar o arquivo no STAGE
 git commit -m // para registrar a foto do estagio atual e junto criar um comentário
 git commit -am // para não precisar fazer add toda vez antes do commit
 git log // vizualizar o histórico de alterações
+	(q) para encerrar o processo
 git checkout (código obtido no histórico) // retoma o arquivo como era
 -------------------------------------------------------------------------------
 
@@ -30,3 +31,4 @@ git clone (https://github.com/TioChamp016/GitTelegram.git) <- link do seu reposi
     git status //para conferir se foi mesmo adicionado
     git commit -m '' // para subir e comentar na pasta local
     git push // para subir online para o github
+    git pull // para upar do github para a pasta local no pc
