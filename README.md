@@ -32,3 +32,13 @@ git clone (https://github.com/TioChamp016/GitTelegram.git) <- link do seu reposi
     git commit -m '' // para subir e comentar na pasta local
     git push // para subir online para o github
     git pull // para upar do github para a pasta local no pc
+
+ATUALIZADO 02-09-2022
+Passo a passo para subir arquivo para o github através do git no terminal
+
+1º git clone LINK ;para criar a pasta do github no seu pc
+2º colocar os arquivos a serem upados dentro desta pasta recem criada
+3º git status ;para verificar se os arquivos estão "vermelhinhos"
+4º git add . ;para adiciona-los na area de transferencia
+5º git commit -m '';para comentar e permitir o push
+6º git push
